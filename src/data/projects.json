@@ -1,0 +1,113 @@
+[
+    {
+        "title": "Patio Cover Open Gable",
+        "slug": "patio-cover-open-gable",
+        "category": "Patio Covers",
+        "description": "Custom open gable patio cover designed for maximum airflow and natural light, featuring high-quality structural timber and matching architectural shingles.",
+        "images": [
+            "https://1stchoiceroofs.com/wp-content/uploads/2025/10/img1.jpeg",
+            "https://1stchoiceroofs.com/wp-content/uploads/2025/10/img2.jpeg"
+        ],
+        "details": {
+            "materials": [
+                "Premium Architectural Shingles",
+                "Structural Timber"
+            ],
+            "features": [
+                "Open Gable Design",
+                "Integrated Lighting"
+            ]
+        }
+    },
+    {
+        "title": "Standing Seam Metal Roof",
+        "slug": "standing-seam-metal-roof",
+        "category": "Metal Roofing",
+        "description": "Durable and modern standing seam metal roof installation, providing superior weather protection and a sleek aesthetic for this residential project.",
+        "images": [
+            "https://1stchoiceroofs.com/wp-content/uploads/2025/11/imgi_13_ZDJhYjM1MTYuanBn.jpg"
+        ],
+        "details": {
+            "materials": [
+                "24-Gauge Steel",
+                "Hidden Fasteners"
+            ],
+            "features": [
+                "High wind resistance",
+                "Long-term durability"
+            ]
+        }
+    },
+    {
+        "title": "Custom Architectural Shingle",
+        "slug": "custom-architectural-shingle",
+        "category": "Residential Roofing",
+        "description": "Complete roof replacement using high-definition architectural shingles, enhancing curb appeal and ensuring long-term structural integrity.",
+        "images": [
+            "https://1stchoiceroofs.com/wp-content/uploads/2025/10/p2-img5.jpeg"
+        ],
+        "details": {
+            "materials": [
+                "Impact-Resistant Shingles"
+            ],
+            "features": [
+                "High-definition profile",
+                "Enhanced ventilation system"
+            ]
+        }
+    },
+    {
+        "title": "Flat Roof TPO Outdoor Kitchen",
+        "slug": "tpo-outdoor-kitchen",
+        "category": "Outdoor Living",
+        "description": "Modern outdoor kitchen featuring a professional TPO membrane flat roof for superior energy efficiency and absolute waterproofing.",
+        "images": [
+            "https://1stchoiceroofs.com/wp-content/uploads/2025/10/imgi_15_ZDJhYmIwM2UuanBn.jpg"
+        ],
+        "details": {
+            "materials": [
+                "60-mil TPO Membrane"
+            ],
+            "features": [
+                "Energy efficient",
+                "Heat reflective"
+            ]
+        }
+    },
+    {
+        "title": "KasselWood Steel Roofing",
+        "slug": "kasselwood-steel-roofing",
+        "category": "Steel Roofing",
+        "description": "Installation of KasselWood premier steel roofing, offering the classic look of cedar shingles with the permanent protection of steel.",
+        "images": [
+            "https://1stchoiceroofs.com/wp-content/uploads/2025/11/imgi_20_Zw.jpg"
+        ],
+        "details": {
+            "materials": [
+                "KasselWood Steel shingles"
+            ],
+            "features": [
+                "Class 4 Impact Resistance",
+                "Lifetime warranty"
+            ]
+        }
+    },
+    {
+        "title": "Rosser Custom Project",
+        "slug": "rosser-custom",
+        "category": "Custom Construction",
+        "description": "A comprehensive custom residential construction project featuring complex rooflines and integrated outdoor living spaces.",
+        "images": [
+            "https://1stchoiceroofs.com/wp-content/uploads/2025/11/imgi_16_M2NiMmZmNzEuanBn.jpg"
+        ],
+        "details": {
+            "materials": [
+                "Mixed Media Roofing",
+                "Custom Timberwork"
+            ],
+            "features": [
+                "Complex architectural design"
+            ]
+        }
+    }
+]

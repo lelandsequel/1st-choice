@@ -1,0 +1,86 @@
+[
+    {
+        "slug": "tomball-tx",
+        "city": "Tomball",
+        "county": "Harris",
+        "weatherInfo": "Tomball's location in Southeast Texas exposes roofs to extreme humidity and rapid thunderstorm development. High-wind events, common during the spring and fall transit periods, require roofing systems with superior uplift resistance and reinforced impact protection to withstand occasional hail.",
+        "serviceHighlights": [
+            "Regional Headquarters: Our Tomball base allows for rapid response across the 249 and 99 corridors.",
+            "Storm-Ready Materials: We utilize high-wind rated shingles designed for the specific uplift requirements of the Piney Woods region.",
+            "Local Code Expertise: We maintain deep relationships with Tomball building inspectors to ensure 100% compliance on all residential projects."
+        ],
+        "faqs": [
+            {
+                "q": "Do I need a permit for a new roof in Tomball?",
+                "a": "Yes, Tomball typically requires a permit for a full roof replacement. We handle all the paperwork and inspection scheduling for you as part of our service."
+            },
+            {
+                "q": "How soon can you get to Tomball for a leak repair?",
+                "a": "Being based in the Tomball area, we can often dispatch a repair specialist within the same day or next business day for emergency leak situations."
+            }
+        ]
+    },
+    {
+        "slug": "spring-tx",
+        "city": "Spring",
+        "county": "Harris",
+        "weatherInfo": "The Spring area's dense canopy cover creates a micro-climate of high moisture and debris accumulation. Roofs here are particularly susceptible to 'Gloeocapsa magma' algae and rot if not properly ventilated and cleared of organic matter.",
+        "serviceHighlights": [
+            "Algae-Resistant Solutions: Installation of shingles with specialized copper granules to combat Spring's humidity-driven streaks.",
+            "Debris Management: Focused inspection of valley and gutter health to prevent water backup under heavy tree cover.",
+            "Storm Restoration: Rapid assessment service for Spring's established residential communities following Gulf-driven wind events."
+        ],
+        "faqs": [
+            {
+                "q": "Is shingle algae a problem in Spring, TX?",
+                "a": "Yes, 'Gloeocapsa magma' (black streaks) is very common due to humidity. We install algae-resistant shingles to maintain your home's curb appeal."
+            },
+            {
+                "q": "Do you serve the Old Town Spring area?",
+                "a": "Absolutely. We provide both residential repairs and light commercial roofing for businesses across the historic Spring district."
+            }
+        ]
+    },
+    {
+        "slug": "the-woodlands-tx",
+        "city": "The Woodlands",
+        "county": "Montgomery",
+        "weatherInfo": "The Woodlands requires a balance of high-performance roofing and strict aesthetic compliance. Roofs must be rated for high-wind durability while adhering to the specific color and profile standards of the Township's architectural covenants.",
+        "serviceHighlights": [
+            "HOA & Township Experts: We navigate the Montgomery County RDRC process to ensure your new roof meets all architectural standards.",
+            "Impact-Resistant Options: Premium Class 4 shingles recommended to reduce insurance premiums and protect against heavy pine-fall and hail.",
+            "Precision Cleanup: Meticulous site restoration using high-powered magnetic sweeps to protect The Woodlands' pristine landscapes."
+        ],
+        "faqs": [
+            {
+                "q": "Do I need RDRC approval for a new roof in The Woodlands?",
+                "a": "Yes, most exterior changes require Residential Design Review Committee approval. We provide the necessary documentation to make this process seamless."
+            },
+            {
+                "q": "Can you install metal roofing in The Woodlands?",
+                "a": "It depends on your specific village and lot. We can help you check the latest Township rules regarding metal roofing options."
+            }
+        ]
+    },
+    {
+        "slug": "houston-tx",
+        "city": "Houston",
+        "county": "Harris",
+        "weatherInfo": "Houston's climate demands roofing that can withstand both extreme UV exposure and the intense pressure of tropical storm systems. Reflective, thermal-resistant materials are essential to combat the urban heat island effect and reduce cooling costs.",
+        "serviceHighlights": [
+            "Tropical-Rated Systems: Installation of roofing components designed to withstand the heavy rainfall and sustained winds of the Gulf Coast.",
+            "Commercial Grade Reliability: Scalable solutions for Houston property managers that prioritize long-term ROI and thermal efficiency.",
+            "Storm Documentation: Clear, factual reporting to support property owners throughout the Harris County insurance claim process."
+        ],
+        "faqs": [
+            {
+                "q": "What is the most common cause of roof damage in Houston?",
+                "a": "Wind and hail from severe thunderstorms are the primary drivers of damage, along with long-term UV degradation from the intense Texas sun."
+            },
+            {
+                "q": "Is impact-resistant roofing worth it in Houston?",
+                "a": "Highly recommended. It often qualifies homeowners for insurance discounts and provides much better protection during inevitable Houston hail storms."
+            }
+        ]
+    }
+]

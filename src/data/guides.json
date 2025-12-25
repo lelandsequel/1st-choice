@@ -1,0 +1,67 @@
+[
+    {
+        "slug": "how-much-does-roof-repair-cost-in-houston",
+        "question": "How much does roof repair cost in Houston?",
+        "shortAnswer": "In Houston, the average cost for minor roof repairs ranges from $350 to $1,200. More extensive repairs involving structural elements or large areas of storm damage typically fall between $1,500 and $4,500.",
+        "detailedExplanation": "Houston's roof repair costs are driven by material type (asphalt, metal, or tile), roof accessibility, and the specific nature of the damage. Labor rates in the Greater Houston area are influenced by seasonal demand, particularly following hurricane or severe thunderstorm events.",
+        "bulletPoints": [
+            "Minor leak repair: $350 - $750",
+            "Flashing & pipe boot repair: $400 - $900",
+            "Major shingle replacement (1+ square): $1,000 - $2,500",
+            "Emergency tarping: $250 - $600"
+        ],
+        "relatedService": "roof-repair"
+    },
+    {
+        "slug": "how-long-does-a-roof-last-in-texas",
+        "question": "How long does a roof last in Texas?",
+        "shortAnswer": "A typical asphalt shingle roof in Texas lasts between 15 and 20 years. While manufacturer warranties often span 30+ years, the extreme heat and frequent storm cycles in Texas significantly shorten the actual service life.",
+        "detailedExplanation": "The Texas climate presents two major threats to roof longevity: intense UV radiation which causes shingles to become brittle, and thermal shock from rapid temperature changes. Regular maintenance and ensuring proper high-flow attic ventilation are critical factors in the longevity of any Texas roof.",
+        "bulletPoints": [
+            "Standard 3-tab shingles: 12 - 15 years",
+            "Premium Architectural shingles: 18 - 25 years",
+            "Metal roofing systems: 40 - 60 years",
+            "Slate & Tile roofing: 50+ years"
+        ],
+        "relatedService": "roof-replacement"
+    },
+    {
+        "slug": "does-insurance-cover-storm-damage-roofing",
+        "question": "Does insurance cover storm damage roofing?",
+        "shortAnswer": "Yes, most standard homeowners insurance policies cover roof repairs or replacement if the damage is caused by a sudden, accidental event like hail, high winds, or falling debris during a storm.",
+        "detailedExplanation": "Insurance coverage typically focuses on 'replacement cost value' (RCV) or 'actual cash value' (ACV). If your roof is damaged by a covered peril, the insurer is responsible for returning it to its pre-loss condition. However, damage caused by age, neglect, or wear and tear is generally excluded.",
+        "bulletPoints": [
+            "Hail damage: Generally covered",
+            "Wind damage (lifted shingles): Generally covered",
+            "Falling trees/limbs: Generally covered",
+            "General wear & tear: Not covered"
+        ],
+        "relatedService": "storm-damage-roofing"
+    },
+    {
+        "slug": "what-are-signs-you-need-a-roof-inspection",
+        "question": "What are signs you need a roof inspection?",
+        "shortAnswer": "Visible signs you need a roof inspection include missing shingles, granule loss in gutters, water stains on ceilings, and daylight visible in the attic. Sudden increases in energy bills can also indicate compromised roofing.",
+        "detailedExplanation": "While some signs are obvious, many roofing issues are invisible from the ground. Professional inspections identify 'bruising' on shingles from hail, compromised flashing around vents, and early signs of structural sagging that can lead to catastrophic failure if left unaddressed.",
+        "bulletPoints": [
+            "Granule loss (sand-like material in gutters)",
+            "Cracked, curled, or missing shingles",
+            "Damaged or rusted flashing around chimneys",
+            "Ceiling stains or bubbling paint"
+        ],
+        "relatedService": "roof-inspection"
+    },
+    {
+        "slug": "how-soon-should-you-repair-hail-damage-on-a-roof",
+        "question": "How soon should you repair hail damage on a roof?",
+        "shortAnswer": "Hail damage should be inspected immediately and repaired within 30 to 60 days. While high-impact bruising may not leak instantly, it compromises the shingle's integrity, leading to rapid UV degradation and leaks within months.",
+        "detailedExplanation": "The primary danger of delayed hail repair is the loss of protective granules. Once the asphalt layer is exposed to the sun, it quickly becomes brittle and cracks. Furthermore, most insurance policies have a specific 'statute of limitations'—typically one year—to file a claim after a storm event occurs.",
+        "bulletPoints": [
+            "Immediate: Tarp any active leaks",
+            "Within 1 week: Schedule professional inspection",
+            "Within 30 days: Contact insurance if damage is confirmed",
+            "Within 6 months: Complete repairs to prevent secondary rot"
+        ],
+        "relatedService": "roof-repair"
+    }
+]

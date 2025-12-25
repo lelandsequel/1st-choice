@@ -1,0 +1,142 @@
+[
+    {
+        "slug": "roof-repair",
+        "service": "Roof Repair",
+        "problem": "Leaking roofs, missing shingles, and storm damage can lead to costly structural issues if not addressed quickly. Our Tomball-based team specialize in fast, durable repairs that extend the life of your roof.",
+        "solution": "We use a rigorous multi-point inspection process to identify the root cause of leaks, ensuring that our repairs aren't just patches, but long-term solutions for your home's protection.",
+        "features": [
+            "Leak Detection & Sealing",
+            "Shingle Replacement",
+            "Flashing & Valley Repair",
+            "Emergency Tarping Services"
+        ],
+        "process": [
+            "Initial Inspection: We document all damage, including hidden structural issues near vents and chimneys.",
+            "Comprehensive Estimate: You receive a detailed breakdown of costs and materials needed.",
+            "Professional Repair: Our crew secures the area and performs high-precision repairs using matching materials.",
+            "Final Quality Check: We verify the integrity of the repair and ensure a clean job site."
+        ],
+        "faqs": [
+            {
+                "q": "How long does a typical roof repair take?",
+                "a": "Most residential roof repairs in the Houston area are completed within 4 to 8 hours, depending on the severity of the damage and weather conditions."
+            },
+            {
+                "q": "Does homeowner's insurance cover roof repairs?",
+                "a": "If the damage was caused by a covered event like hail or high winds, insurance often pays for the repair. We can help you navigate the inspection process for your claim."
+            }
+        ]
+    },
+    {
+        "slug": "roof-replacement",
+        "service": "Roof Replacement",
+        "problem": "An aging or severely damaged roof isn't just an eyesore—it's a liability. When repairs are no longer sufficient, a full roof replacement is the best way to secure your investment and improve energy efficiency.",
+        "solution": "We provide premium roofing systems designed for the unique Texas climate, focusing on ventilation, impact resistance, and aesthetic appeal that lasts for decades.",
+        "features": [
+            "Full Tear-Off & Disposal",
+            "Ice & Water Shield Installation",
+            "High-Efficiency Ventilation",
+            "Impact-Resistant Shingles"
+        ],
+        "process": [
+            "Project Consultation: We help you select the best materials and colors for your home and budget.",
+            "Site Preparation: We protect your landscaping and property before the tear-off begins.",
+            "Expert Installation: Our certified installers apply the complete roofing system to manufacturer specifications.",
+            "Project Walkthrough: We perform a final inspection with you to ensure 100% satisfaction."
+        ],
+        "faqs": [
+            {
+                "q": "What is the best roofing material for Houston's weather?",
+                "a": "High-quality asphalt shingles (like architectural or impact-resistant) are popular for their balance of cost and durability. Metal roofing is also an excellent long-term choice for Texas heat."
+            },
+            {
+                "q": "How do I know if I need a full replacement or just a repair?",
+                "a": "If your roof is over 20 years old, has widespread shingle loss, or has suffered major storm damage, a replacement is usually more cost-effective than constant repairs."
+            }
+        ]
+    },
+    {
+        "slug": "roof-inspection",
+        "service": "Roof Inspection",
+        "problem": "Roof damage isn't always visible from the ground. Undetected leaks or hail bruising can compromise your home's safety long before you see a watermark on the ceiling.",
+        "solution": "We offer detailed, professional roof inspections that provide a clear picture of your roof's condition, helping you make informed decisions about maintenance or repairs.",
+        "features": [
+            "17-Point Safety Check",
+            "Drone Aerial Photography",
+            "Structural Integrity Report",
+            "Insurance Documentation"
+        ],
+        "process": [
+            "Visual Assessment: We check for shingle granule loss, bruising, and missing components.",
+            "Penetration Check: We inspect flashing around vents, chimneys, and skylights.",
+            "Attic Audit: We examine ventilation and check for daylight or moisture in the decking.",
+            "Reporting: You receive a full digital report with findings and recommended next steps."
+        ],
+        "faqs": [
+            {
+                "q": "Is a roof inspection really free?",
+                "a": "Yes, we provide complimentary inspections for homeowners in the Tomball and Houston area to help identify potential storm damage or maintenance needs early."
+            },
+            {
+                "q": "How often should I have my roof inspected?",
+                "a": "We recommend an inspection at least once a year, and immediately following any major storm with high winds or hail over 1 inch."
+            }
+        ]
+    },
+    {
+        "slug": "storm-damage-roofing",
+        "service": "Storm Damage Roofing",
+        "problem": "Texas storms can be devastating. Hail, high winds, and falling debris can leave your home vulnerable to the elements, requiring immediate expert intervention.",
+        "solution": "Our storm recovery team specializes in rapid response and robust restoration, helping you secure your property and navigate the complexities of weather-related damage.",
+        "features": [
+            "24/7 Emergency Response",
+            "Hail Damage Assessment",
+            "Wind Damage Restoration",
+            "Insurance Claim Assistance"
+        ],
+        "process": [
+            "Emergency Mitigation: Same-day tarping to prevent further water intrusion if needed.",
+            "Damage Verification: Detailed forensic inspection of hail hits and wind uplift.",
+            "Project Planning: Scheduling restoration with a focus on restoring your home's integrity quickly.",
+            "Warranty Verification: Ensuring all work meets or exceeds manufacturer standards for storm resilience."
+        ],
+        "faqs": [
+            {
+                "q": "What are the signs of hail damage on a roof?",
+                "a": "Signs include circular indentations (bruising) in shingles, heavy granule loss in gutters, and cracked or dented metal flashing."
+            },
+            {
+                "q": "Can I get my roof replaced through insurance after a storm?",
+                "a": "If 'significant damage' is documented by a professional, most policies cover the replacement. We provide the documentation required by adjusters."
+            }
+        ]
+    },
+    {
+        "slug": "commercial-roofing",
+        "service": "Commercial Roofing",
+        "problem": "Flat roofs and commercial structures present unique challenges. Leaks in a warehouse or office can interrupt business and damage valuable inventory or equipment.",
+        "solution": "We offer heavy-duty commercial roofing solutions including TPO, PVC, and professional coatings designed for the largest Greater Houston facilities.",
+        "features": [
+            "TPO & PVC Membranes",
+            "Roof Coating Systems",
+            "Preventative Maintenance Plans",
+            "Flat Roof Leak Repair"
+        ],
+        "process": [
+            "Site Audit: We evaluate the current membrane status and drainage efficiency.",
+            "Custom Specification: We recommend the best system based on traffic, chemical exposure, and budget.",
+            "Precision Install: Our commercial crews use advanced welding and attachment techniques for a watertight seal.",
+            "Ongoing Care: Periodic inspections to ensure tenant safety and asset protection."
+        ],
+        "faqs": [
+            {
+                "q": "What is the lifespan of a commercial TPO roof?",
+                "a": "A properly installed TPO roof in the Texas climate typically lasts 20 to 30 years with regular maintenance."
+            },
+            {
+                "q": "Do you offer roofing for multi-family properties?",
+                "a": "Yes, we handle apartments, condos, and HOA-managed properties across the North Houston corridor."
+            }
+        ]
+    }
+]
